@@ -10,7 +10,7 @@
 
             <p>
                Nama : Bagus Tri Yulianto Darmawan 
-               <br> Kelas : TI 5B
+               <br> Kelas : TI 7B
                <br> NIM : 2007411056
                <br> Email : bagus.triyuliantodarmawan.tik20@mhsw.pnj.ac.id
                <br> Email Personal : bagusdarmawan654@gmail.com
